@@ -1,0 +1,2 @@
+# my_IDC_homework
+这是我大二时pic嵌入式开发课的期末大作业
