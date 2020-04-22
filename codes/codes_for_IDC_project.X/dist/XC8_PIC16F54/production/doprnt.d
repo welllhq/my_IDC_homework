@@ -1,0 +1,1 @@
+ dist/XC8_PIC16F54/production/doprnt.d  dist/XC8_PIC16F54/production/doprnt.p1:  D:/MPLAB/sources/common/doprnt.c
